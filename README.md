@@ -4,9 +4,9 @@
 -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/license-NCSL--v1.0-blueviolet.svg" alt="License: NCSL v1.0" />
-  <img src="https://img.shields.io/badge/open%20source-no-%23cc0000.svg" alt="Not OSI-Approved" />
-  <img src="https://img.shields.io/badge/commercial%20use-requires%20permission-orange.svg" alt="Commercial use requires permission" />
+  <img src="https://img.shields.io/badge/license-NCSL--v1.0-blueviolet.svg?style=for-the-badge" alt="License: NCSL v1.0" />
+  <img src="https://img.shields.io/badge/open%20source-no-%23cc0000.svg?style=for-the-badge" alt="Not OSI-Approved" />
+  <img src="https://img.shields.io/badge/commercial%20use-requires%20permission-orange.svg?style=for-the-badge" alt="Commercial use requires permission" />
 </p>
 
 <h1 align="center">Non‑Commercial Source License (NCSL) v1.0</h1>
